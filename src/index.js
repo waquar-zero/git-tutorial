@@ -1,2 +1,2 @@
-console.log('this is index and improved version');
+console.log('this is index');
 console.log('test2');   
