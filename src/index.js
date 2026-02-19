@@ -1,2 +1,2 @@
 console.log('this is index');
-console.log('test3 version 3');   
+console.log('this is from new device');   
